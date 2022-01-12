@@ -1,6 +1,4 @@
-async def kick(ctx, member : discord.Member):
-    try:
-        await member.kick(reason=None)
-        await ctx.send("kicked "+member.mention) #simple kick command to demonstrate how to get and use member mentions
-    except:
-        await ctx.send("bot does not have the kick members permission!")
+@bot.command(brief="Kicks a server member", description="b!kick <member> [reason]")
+async def kick(ctx, member: discord.Member, *, reason=None):
+    await member.kick(reason=reason)
+    await ctx.send(f'User {member} has been kicked.')
