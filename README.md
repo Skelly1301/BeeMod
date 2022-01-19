@@ -15,7 +15,7 @@ Simple kick member function, just use b!kick <member> [reason]
 Simple ban member function, just use b!ban <member> [reason]
 
 ### Help function
-![image](https://user-images.githubusercontent.com/88248957/149185021-b54f0ab0-a6ff-4c47-8e72-04b60dde2b81.png)
+![image](https://user-images.githubusercontent.com/88248957/150197498-20f959fb-7fbd-4609-97f0-b2ae407b04e4.png)
 
 Simple help member function, just use b!help
   
