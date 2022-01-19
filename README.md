@@ -36,10 +36,10 @@ This will set the bots status to 'Playing b!help' and will set the online status
 @bot.event
 async def on_ready():
     print(f'{bot.user.name} has connected to discord, lol')
-    activity = discord.Game(name="b!help", type=3)
-    await bot.change_presence(status=discord.Status.dnd, activity=activity)
+    activity = discord.Game(name="b!help | " + str(len(bot.guilds)) + " servers!")
+    await bot.change_presence(status=discord.Status.online, activity=activity)
 ```
-![image](https://user-images.githubusercontent.com/88248957/149186988-722e31ec-528a-415e-b7b7-b1a41965b77d.png)
+![image](https://user-images.githubusercontent.com/88248957/150197391-1b3c39d6-2634-42c8-a542-c1b1e1a9e10f.png)
 
 To see similiar projects, visit my website
   https://skellyy.repl.co
