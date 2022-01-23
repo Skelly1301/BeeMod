@@ -1,3 +1,0 @@
-@bot.command()
-async def website(ctx):
-    await ctx.send("https://skellyy.repl.co")
