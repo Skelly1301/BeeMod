@@ -1,8 +1,6 @@
 # BeeMod
 The code and info on my discord bot, hosted in the cloud, coded in repl.it
 
-
-
 ## Moderation
 ### Kick function
 ![image](https://user-images.githubusercontent.com/88248957/149184158-5189fec1-bfd7-401b-b079-cd0284f7e411.png)
@@ -19,7 +17,15 @@ Simple ban member function, just use b!ban <member> [reason]
 
 Simple help member function, just use b!help
   
-  
+## Fun
+### 8ball
+![image](https://user-images.githubusercontent.com/88248957/150986907-a96a83cf-0acd-4de7-862c-a17b3caa83b3.png)
+
+### Inspire
+![image](https://user-images.githubusercontent.com/88248957/150987015-762ef3aa-3a27-4eaf-946d-bdfda85120e2.png)
+![image](https://user-images.githubusercontent.com/88248957/150987109-60219a7d-f565-4421-a6db-56875582cb36.png)
+![image](https://user-images.githubusercontent.com/88248957/150987131-2c6ec910-9cfb-47a3-a109-6e29b632171c.png)
+
   
 ## Code
 ### Simple command code
