@@ -15,7 +15,7 @@ Simple kick member function, just use b!kick <member> [reason]
 Simple ban member function, just use b!ban <member> [reason]
 
 ### Help function
-![image](https://user-images.githubusercontent.com/88248957/150682301-ca9c2637-b326-4a61-8e3e-26cc8900319d.png)
+![image](https://user-images.githubusercontent.com/88248957/150985101-be19701c-05f0-430e-8f74-4047993cc6d8.png)
 
 Simple help member function, just use b!help
   
@@ -41,5 +41,6 @@ async def on_ready():
 ```
 ![image](https://user-images.githubusercontent.com/88248957/150197391-1b3c39d6-2634-42c8-a542-c1b1e1a9e10f.png)
 
-To see similiar projects, visit my website
-  https://skellyy.repl.co
+[Bot website](https://beemodweb.skellyy.repl.co)
+  
+To see similiar projects, visit [my website](https://skellyy.repl.co)
