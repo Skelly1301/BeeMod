@@ -24,7 +24,8 @@ Simple help member function, just use b!help
 ### Inspire
 ![image](https://user-images.githubusercontent.com/88248957/150987015-762ef3aa-3a27-4eaf-946d-bdfda85120e2.png)
 ![image](https://user-images.githubusercontent.com/88248957/150987109-60219a7d-f565-4421-a6db-56875582cb36.png)
-![image](https://user-images.githubusercontent.com/88248957/150987131-2c6ec910-9cfb-47a3-a109-6e29b632171c.png)
+![image](https://user-images.githubusercontent.com/88248957/150987227-dfad8831-8ae6-4425-b2fb-07e9a1e7a549.png)
+
 
   
 ## Code
