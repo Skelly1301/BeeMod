@@ -26,6 +26,7 @@ Simple help member function, just use b!help
 ![image](https://user-images.githubusercontent.com/88248957/150987109-60219a7d-f565-4421-a6db-56875582cb36.png)
 ![image](https://user-images.githubusercontent.com/88248957/150987227-dfad8831-8ae6-4425-b2fb-07e9a1e7a549.png)
 
+  Made using [zenquotes.io](https://zenquotes.io)
 
   
 ## Code
