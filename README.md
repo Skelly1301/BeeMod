@@ -1,4 +1,9 @@
 # BeeMod
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Skelly1301/BeeMod)
+![GitHub last commit](https://img.shields.io/github/last-commit/Skelly1301/BeeMod)
+![GitHub language count](https://img.shields.io/github/languages/count/Skelly1301/BeeMod)
+![GitHub top language](https://img.shields.io/github/languages/top/Skelly1301/BeeMod)
+
 The code and info on my discord bot, hosted in the cloud, coded in repl.it
 
 ## Moderation
