@@ -3,6 +3,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skelly1301/BeeMod)
 ![GitHub language count](https://img.shields.io/github/languages/count/Skelly1301/BeeMod)
 ![GitHub top language](https://img.shields.io/github/languages/top/Skelly1301/BeeMod)
+![Lines of code](https://img.shields.io/tokei/lines/github/skelly1301/beemod)
+![GitHub repo size](https://img.shields.io/github/repo-size/skelly1301/beemod)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/skelly1301/beemod)
 
 The code and info on my discord bot, hosted in the cloud, coded in repl.it
 
