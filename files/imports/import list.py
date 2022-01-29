@@ -6,3 +6,4 @@ from dotenv import load_dotenv
 import random
 import requests
 import json
+from requests import get
