@@ -9,7 +9,7 @@
 
 The code and info on my discord bot, hosted in the cloud, coded in repl.it
 
-**Please make sure you check the [import list](https://github.com/Skelly1301/BeeMod/blob/main/files/imports/import%20list.py) for all the imports needed for ALL the commands the work.
+**Please make sure you check the [import list](https://github.com/Skelly1301/BeeMod/blob/main/files/imports/import%20list.py) for all the imports needed for ALL the commands the work.**
 
 ## Moderation
 ### Kick function
