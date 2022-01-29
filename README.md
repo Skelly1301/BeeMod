@@ -37,7 +37,6 @@ Simple help member function, just use b!help
   Made using [zenquotes.io](https://zenquotes.io)
 
 ### Meme
-![image](https://user-images.githubusercontent.com/88248957/151582311-10649470-864e-4e01-9ff8-ef9cb2bd35af.png)
 ![image](https://user-images.githubusercontent.com/88248957/151582479-8befa569-f42b-48b8-8dba-f400d0a8cdfe.png)
 
   Sends a random meme from reddit, in discord.
