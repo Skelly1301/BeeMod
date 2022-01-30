@@ -1,4 +1,4 @@
-# BeeMod
+# 🐝 BeeMod
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Skelly1301/BeeMod)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skelly1301/BeeMod)
 ![GitHub language count](https://img.shields.io/github/languages/count/Skelly1301/BeeMod)
@@ -12,7 +12,7 @@ The code and info on my discord bot, hosted in the cloud, coded in repl.it
 **Please make sure you check the [import list](https://github.com/Skelly1301/BeeMod/blob/main/files/imports/import%20list.py) for all the imports needed for ALL the commands the work.**
 
 ## All commands
-[Ban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/ban%20member.py), [Kick member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/kick%20member.py), [Unban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/unban%20member.py), [Meme](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/meme.py), [Clear](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/clear.py), [Inspire](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [8ball](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [Servers](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/servers.py), [Website](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/website.py).
+[Ban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/ban%20member.py), [Kick member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/kick%20member.py), [Unban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/unban%20member.py), [Meme](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/meme.py), [Clear](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/clear.py), [Inspire](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [8ball](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [Servers](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/servers.py), [Website](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/website.py), [Rock Paper Scissors (rps)](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/rps.py).
 ## Moderation
 ### Kick function
 ![image](https://user-images.githubusercontent.com/88248957/149184158-5189fec1-bfd7-401b-b079-cd0284f7e411.png)
