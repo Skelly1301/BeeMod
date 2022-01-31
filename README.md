@@ -15,7 +15,7 @@ The code and info on my discord bot, hosted in the cloud, coded in repl.it
 
 ## All commands
 [Ban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/ban%20member.py), [Kick member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/kick%20member.py), [Unban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/unban%20member.py), [Meme](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/meme.py), [Clear](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/clear.py), [Inspire](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [8ball](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [Servers](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/servers.py), [Website](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/website.py), [Rock Paper Scissors (rps)](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/rps.py).
-## Moderation
+## Featured commands
 ### Kick function
 ![image](https://user-images.githubusercontent.com/88248957/149184158-5189fec1-bfd7-401b-b079-cd0284f7e411.png)
 
@@ -26,19 +26,11 @@ Simple kick member function, just use b!kick <member> [reason]
 
 Simple ban member function, just use b!ban <member> [reason]
 
-## Help
-![image](https://user-images.githubusercontent.com/88248957/150985101-be19701c-05f0-430e-8f74-4047993cc6d8.png)
-
-Simple help member function, just use b!help
-  
-## Fun
 ### 8ball
 ![image](https://user-images.githubusercontent.com/88248957/150986907-a96a83cf-0acd-4de7-862c-a17b3caa83b3.png)
 
 ### Inspire
 ![image](https://user-images.githubusercontent.com/88248957/150987015-762ef3aa-3a27-4eaf-946d-bdfda85120e2.png)
-![image](https://user-images.githubusercontent.com/88248957/150987109-60219a7d-f565-4421-a6db-56875582cb36.png)
-![image](https://user-images.githubusercontent.com/88248957/150987227-dfad8831-8ae6-4425-b2fb-07e9a1e7a549.png)
 
   Made using [zenquotes.io](https://zenquotes.io)
 
