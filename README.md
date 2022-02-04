@@ -14,6 +14,8 @@ The code and info on my discord bot, hosted in the cloud, coded in repl.it
 **Please make sure you check the [import list](https://github.com/Skelly1301/BeeMod/blob/main/files/imports/import%20list.py) for all the imports needed for ALL the commands the work.**
 
 ## All commands
+BeeMod also has its own built in levelling system! Check the [levelling folder](https://github.com/Skelly1301/BeeMod/tree/main/levelling)
+
 [Ban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/ban%20member.py), [Kick member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/kick%20member.py), [Unban member](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/unban%20member.py), [Meme](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/meme.py), [Clear](https://github.com/Skelly1301/BeeMod/blob/main/commands/moderation/clear.py), [Inspire](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [8ball](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/8ball.py), [Servers](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/servers.py), [Website](https://github.com/Skelly1301/BeeMod/blob/main/commands/info/website.py), [Rock Paper Scissors (rps)](https://github.com/Skelly1301/BeeMod/blob/main/commands/fun/rps.py), [Giveaways](https://github.com/Skelly1301/BeeMod/blob/main/commands/utilities/giveaway.py)
 ## Featured commands
 ### Kick function
