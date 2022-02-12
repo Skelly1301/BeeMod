@@ -18,7 +18,7 @@ async def _8ball(ctx):
         'No!',
         'Signs a point to Yes!',
         'Reply Hazy, Try again.',
-        'IDK but u should subscribe to Exotix On Youtube and Follow Him On Insta mahad.ali.khan.',
+        'IDK but u should visit this website https://skellyy.repl.co.',
         'Better not tell you know.',
         'Cannot predict now.',
         'Concentrate and ask again.',
