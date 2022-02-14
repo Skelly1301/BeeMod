@@ -29,3 +29,4 @@ BeeMod has released it's first version (v1.0) to the public. You can invite the 
 - [Official BeeMod discord server](https://discord.gg/Guwsy5DzxY)
 - [BeeMod's website](https://beemod.repl.co)
 - [Top.gg](https://top.gg/bot/930140924833562684)
+- [Documentation](https://docs.beemod.repl.co)
