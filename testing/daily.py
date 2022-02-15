@@ -1,7 +1,7 @@
 
 @bot.command()
 @commands.cooldown(1, 86400, commands.BucketType.user)
-async def beg(ctx):
+async def daily(ctx):
     await open_account(ctx.author)
 
     user = ctx.author
