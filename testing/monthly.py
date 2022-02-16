@@ -9,7 +9,7 @@ async def monthly(ctx):
 
     earnings = random.randrange(2500)
 
-    begembed = discord.Embed(title=f"{ctx.author.name}", description=f"Someone gave you {earnings} coins! How lucky is that?", color=discord.Color.teal())
+    begembed = discord.Embed(title=f"{ctx.author.name}", description=f"Here, have {earnings} coins! It is your monthly gift after all", color=discord.Color.teal())
 
     await ctx.reply(embed=begembed)
 
