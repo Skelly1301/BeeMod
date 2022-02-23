@@ -1,4 +1,8 @@
-# 🐝 BeeMod
+<p align="center">
+  <img alt="BeeMod Logo" src="https://images-ext-1.discordapp.net/external/0BE5Op9zZFggQVp5efhSchGb8Mgcdu5kwqPPaoOw2kU/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/821096670606917692/919aab248f8ee74a38719e239f363b9f.png?width=586&height=586" width="150px" />
+  <h1 align="center">BeeMod</h1>
+</p>
+
 ![Discord](https://img.shields.io/discord/928357724574584912?logo=discord&style=for-the-badge)
 
   **Please note the code is updated regularly, but the Readme is not always up-to-date. If anything seems off, thats why**
