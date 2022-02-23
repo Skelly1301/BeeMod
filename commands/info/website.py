@@ -1,3 +1,3 @@
 @bot.command()
 async def website(ctx):
-    await ctx.send("https://beemodweb.skellyy.repl.co")
+    await ctx.reply("https://beemod.repl.co")
