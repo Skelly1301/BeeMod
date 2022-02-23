@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: BeeMod discord server
+    url: https://discord.gg/pSxcz5HFZU
+    about: Please ask and answer questions here.
+  - name: BeeMod Documentation
+    url: https://docs.beemod.repl.co
+    about: Please see to the docs before raising an issue
