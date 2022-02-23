@@ -1,0 +1,11 @@
+To make the b!help command work you need to remove the original help command built into discord.py:
+
+
+To do this, under the code:
+
+bot = commands.Bot(command_prefix='b!', intents=discord.Intents.all())
+
+
+Type:
+
+bot.remove_command('help')
