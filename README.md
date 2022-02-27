@@ -3,7 +3,7 @@
   <h1 align="center">BeeMod</h1>
 </p>
 
-![Discord](https://img.shields.io/discord/928357724574584912?logo=discord&style=for-the-badge)
+![https://discord.gg/FDaD7UwJpt](https://img.shields.io/discord/928357724574584912?logo=discord&style=for-the-badge)
 
   **Please note the code is updated regularly, but the Readme is not always up-to-date. If anything seems off, thats why**
   
